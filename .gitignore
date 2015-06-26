@@ -1,0 +1,11 @@
+target/
+.class
+.cache
+scala/.settings
+scala/bin
+.classpath
+_trial_temp
+*.pyc
+*.html
+*.DS_Store
+*.idea/
