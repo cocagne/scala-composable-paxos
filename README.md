@@ -1,7 +1,7 @@
 # scala-composable-paxos
 
 This repository implements the core Paxos algorithm as a set of composable
-Python classes. 
+Scala classes. 
 
 In order to use this module properly, at least a basic understanding of Paxos is
 required. The algorithm requires adherence to several messaging rules and that
