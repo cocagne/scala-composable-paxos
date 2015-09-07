@@ -1,8 +1,8 @@
-package cocagne.composable_paxos.tests
+package com.github.cocagne.composable_paxos.tests
 
 import org.scalatest._
 
-import cocagne.composable_paxos._
+import com.github.cocagne.composable_paxos._
 
 class LearnerSuite extends FunSuite with Matchers {
 

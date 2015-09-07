@@ -1,12 +1,10 @@
 
 name := "composable-paxos"
 
-organization := "cocagne"
+organization := "com.github.cocagne"
 
-version := "0.1-SNAPSHOT"
+version := "0.2-SNAPSHOT"
 
-scalaVersion := "2.11.5"
+scalaVersion := "2.11.7"
 
-EclipseKeys.withSource := true
-
-libraryDependencies += "org.scalatest" % "scalatest_2.11" % "2.2.1" % "test"
+libraryDependencies += "org.scalatest" % "scalatest_2.11" % "2.2.4" % "test"

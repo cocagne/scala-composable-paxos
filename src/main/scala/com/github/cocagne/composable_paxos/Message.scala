@@ -1,4 +1,4 @@
-package cocagne.composable_paxos
+package com.github.cocagne.composable_paxos
 
 
 case class ProposalID(proposalNumber: Int, networkUid: NetworkUID) extends Ordered[ProposalID] {

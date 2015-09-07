@@ -1,4 +1,4 @@
-package cocagne
+package com.github.cocagne
 
 package object composable_paxos {
   

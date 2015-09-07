@@ -1,4 +1,4 @@
-package cocagne.composable_paxos
+package com.github.cocagne.composable_paxos
 
 class Proposer[T] (val networkUid: NetworkUID, val quorumSize: Int) {
   

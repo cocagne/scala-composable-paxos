@@ -1,4 +1,4 @@
-package cocagne.composable_paxos
+package com.github.cocagne.composable_paxos
 
 class Acceptor[T](val networkUid: NetworkUID) {
   private var _promisedId:    Option[ProposalID] = None
